@@ -4,8 +4,5 @@
 ## Conceitos básicos
 
 
-
-
-# Segunda semana
-
-# Aula 1 Branches e seu fluxo
+aula 3
+criamos repositório remoto
