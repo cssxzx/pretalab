@@ -2,3 +2,15 @@
 ##
 ## Introdução ao Git e GitHub
 ## Conceitos básicos
+
+
+
+
+
+
+
+
+
+
+
+# Segunda semana
