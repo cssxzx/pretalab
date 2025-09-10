@@ -7,3 +7,5 @@
 Ativamos as chaves básica e incluimos no GitHub
 
 ## Terceira aula conectando o Git com GitHub
+
+Criamos repositório e conectamos ao git
