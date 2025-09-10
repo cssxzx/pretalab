@@ -3,6 +3,4 @@
 ## Introdução ao Git e GitHub
 ## Conceitos básicos
 
-
-aula 3
-criamos repositório remoto
+## Criando e ativando a chave SSH
