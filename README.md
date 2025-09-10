@@ -5,3 +5,5 @@
 
 ## Criando e ativando a chave SSH
 Ativamos as chaves básica e incluimos no GitHub
+
+## Terceira aula conectando o Git com GitHub
